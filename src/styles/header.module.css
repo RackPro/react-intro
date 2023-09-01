@@ -1,0 +1,26 @@
+.but{
+    align-items: center;
+    border: none;
+    border-radius: 5px;
+    width: 240px;
+    height: 40px;
+    color: white;
+    background-color: rgb(44,193,123);
+    margin-top: 30px;
+    transition: 1s;
+    font-size: 18px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.but:hover{
+    background-color: blue;
+}
+
+.rasp{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    
+}
